@@ -1,0 +1,1001 @@
+customer_id,age,city,customer_type,join_date,branch_id
+C00001,43,Pune,Individual,2021-10-17,BR003
+C00002,32,Lucknow,Individual,2021-08-27,BR015
+C00003,25,Bhopal,Individual,2019-11-19,BR014
+C00004,48,Mumbai,Individual,2019-12-17,BR001
+C00005,65,Varanasi,Individual,2020-12-24,BR014
+C00006,24,Bhopal,Small Business,2018-03-23,BR015
+C00007,63,Prayagraj,Individual,2022-10-19,BR013
+C00008,62,Varanasi,Small Business,2022-04-20,BR004
+C00009,34,Pune,Individual,2020-02-22,BR010
+C00010,52,Kanpur,Individual,2020-08-13,BR009
+C00011,29,Bhopal,Individual,2020-04-20,BR010
+C00012,58,Kanpur,Small Business,2022-07-24,BR010
+C00013,56,Pune,Individual,2023-04-27,BR010
+C00014,38,Mumbai,Individual,2018-10-05,BR008
+C00015,24,Bhopal,Individual,2020-11-22,BR011
+C00016,69,Lucknow,Individual,2018-02-05,BR008
+C00017,43,Delhi,Individual,2021-03-02,BR001
+C00018,65,Patna,Individual,2019-09-27,BR001
+C00019,54,Patna,Small Business,2020-05-08,BR015
+C00020,59,Lucknow,Individual,2020-04-07,BR014
+C00021,58,Jaipur,Individual,2020-10-04,BR009
+C00022,30,Mumbai,Individual,2023-05-10,BR003
+C00023,39,Jaipur,Individual,2023-09-03,BR012
+C00024,44,Prayagraj,Individual,2018-01-15,BR003
+C00025,45,Varanasi,Individual,2020-08-24,BR006
+C00026,23,Prayagraj,Individual,2023-12-06,BR005
+C00027,48,Pune,Individual,2021-09-18,BR001
+C00028,28,Bhopal,Individual,2019-06-09,BR013
+C00029,58,Pune,Individual,2022-02-26,BR008
+C00030,55,Mumbai,Individual,2019-01-06,BR005
+C00031,67,Bhopal,Individual,2018-02-25,BR008
+C00032,58,Patna,Individual,2022-06-06,BR001
+C00033,39,Lucknow,Individual,2021-08-10,BR007
+C00034,69,Bhopal,Individual,2023-04-19,BR008
+C00035,41,Bhopal,Individual,2020-05-31,BR006
+C00036,37,Mumbai,Individual,2023-12-25,BR013
+C00037,66,Prayagraj,Individual,2020-12-13,BR004
+C00038,39,Patna,Individual,2023-03-03,BR003
+C00039,24,Mumbai,Individual,2018-09-14,BR008
+C00040,44,Varanasi,Individual,2018-09-06,BR014
+C00041,60,Patna,Individual,2023-06-25,BR006
+C00042,30,Delhi,Small Business,2023-11-03,BR001
+C00043,44,Bhopal,Individual,2024-08-06,BR015
+C00044,27,Jaipur,Individual,2020-04-10,BR007
+C00045,55,Pune,Individual,2018-02-26,BR003
+C00046,44,Lucknow,Small Business,2024-11-10,BR010
+C00047,37,Bhopal,Individual,2022-03-18,BR005
+C00048,32,Lucknow,Individual,2019-09-24,BR015
+C00049,49,Pune,Individual,2023-05-08,BR005
+C00050,54,Kanpur,Individual,2024-04-30,BR009
+C00051,68,Prayagraj,Small Business,2019-12-30,BR009
+C00052,42,Prayagraj,Individual,2023-05-23,BR004
+C00053,29,Prayagraj,Individual,2023-07-07,BR008
+C00054,62,Jaipur,Individual,2021-07-06,BR002
+C00055,52,Delhi,Individual,2022-06-05,BR010
+C00056,56,Kanpur,Individual,2019-11-21,BR012
+C00057,25,Kanpur,Individual,2024-07-03,BR015
+C00058,36,Prayagraj,Individual,2024-11-18,BR005
+C00059,59,Patna,Small Business,2024-11-13,BR005
+C00060,62,Lucknow,Individual,2023-02-28,BR009
+C00061,42,Jaipur,Individual,2018-04-19,BR011
+C00062,61,Pune,Individual,2020-07-26,BR015
+C00063,63,Kanpur,Individual,2021-02-11,BR001
+C00064,40,Mumbai,Individual,2024-09-20,BR004
+C00065,65,Mumbai,Individual,2021-10-30,BR004
+C00066,35,Varanasi,Individual,2021-10-02,BR004
+C00067,32,Kanpur,Small Business,2019-01-11,BR007
+C00068,55,Bhopal,Small Business,2023-07-23,BR014
+C00069,52,Varanasi,Individual,2020-05-09,BR001
+C00070,27,Pune,Small Business,2018-08-23,BR013
+C00071,62,Pune,Individual,2024-11-30,BR010
+C00072,30,Pune,Individual,2019-05-02,BR010
+C00073,61,Prayagraj,Individual,2018-02-11,BR011
+C00074,21,Lucknow,Individual,2018-07-19,BR002
+C00075,60,Mumbai,Individual,2021-03-03,BR012
+C00076,60,Lucknow,Individual,2023-11-25,BR004
+C00077,60,Delhi,Individual,2021-08-03,BR008
+C00078,54,Prayagraj,Individual,2020-04-08,BR011
+C00079,44,Prayagraj,Individual,2018-01-09,BR010
+C00080,56,Varanasi,Individual,2021-05-11,BR005
+C00081,34,Patna,Individual,2019-01-22,BR006
+C00082,60,Delhi,Individual,2024-11-05,BR008
+C00083,48,Lucknow,Individual,2020-01-15,BR001
+C00084,43,Delhi,Individual,2021-04-29,BR011
+C00085,46,Lucknow,Individual,2018-02-17,BR002
+C00086,49,Pune,Individual,2018-12-01,BR007
+C00087,22,Prayagraj,Individual,2019-06-15,BR010
+C00088,27,Jaipur,Individual,2018-05-13,BR002
+C00089,33,Bhopal,Individual,2023-01-31,BR015
+C00090,26,Pune,Individual,2024-08-14,BR006
+C00091,42,Varanasi,Individual,2024-11-24,BR001
+C00092,54,Varanasi,Individual,2019-11-11,BR010
+C00093,53,Delhi,Individual,2023-07-10,BR009
+C00094,44,Delhi,Small Business,2021-07-12,BR010
+C00095,63,Kanpur,Individual,2018-04-28,BR012
+C00096,49,Kanpur,Individual,2018-08-20,BR008
+C00097,24,Kanpur,Individual,2021-11-01,BR013
+C00098,59,Patna,Individual,2020-12-19,BR006
+C00099,49,Jaipur,Small Business,2018-01-22,BR009
+C00100,52,Patna,Small Business,2024-07-06,BR003
+C00101,49,Pune,Individual,2023-02-11,BR010
+C00102,48,Patna,Individual,2021-07-08,BR004
+C00103,25,Bhopal,Individual,2024-11-28,BR011
+C00104,48,Bhopal,Individual,2024-10-19,BR013
+C00105,60,Patna,Small Business,2024-10-26,BR013
+C00106,36,Varanasi,Individual,2019-10-24,BR014
+C00107,51,Bhopal,Individual,2024-03-02,BR002
+C00108,22,Mumbai,Individual,2021-07-14,BR003
+C00109,38,Bhopal,Individual,2023-01-31,BR014
+C00110,42,Jaipur,Individual,2024-01-07,BR006
+C00111,70,Kanpur,Individual,2019-02-22,BR001
+C00112,31,Mumbai,Individual,2021-02-20,BR005
+C00113,34,Prayagraj,Individual,2018-11-26,BR013
+C00114,41,Kanpur,Individual,2019-12-16,BR006
+C00115,70,Mumbai,Small Business,2020-11-23,BR002
+C00116,63,Pune,Small Business,2023-12-28,BR011
+C00117,22,Jaipur,Individual,2024-01-15,BR003
+C00118,32,Bhopal,Individual,2020-09-23,BR006
+C00119,62,Patna,Individual,2020-04-21,BR001
+C00120,23,Kanpur,Small Business,2021-09-19,BR010
+C00121,63,Mumbai,Individual,2024-05-20,BR007
+C00122,35,Jaipur,Individual,2024-11-01,BR014
+C00123,66,Pune,Individual,2019-08-03,BR006
+C00124,35,Prayagraj,Individual,2019-04-22,BR004
+C00125,42,Mumbai,Individual,2022-12-13,BR003
+C00126,54,Jaipur,Individual,2020-02-10,BR004
+C00127,27,Lucknow,Individual,2019-05-26,BR007
+C00128,48,Kanpur,Individual,2018-03-21,BR002
+C00129,46,Mumbai,Individual,2020-10-28,BR007
+C00130,60,Mumbai,Individual,2020-09-28,BR013
+C00131,70,Jaipur,Individual,2021-12-10,BR012
+C00132,54,Pune,Individual,2019-05-27,BR010
+C00133,41,Kanpur,Individual,2023-01-01,BR014
+C00134,41,Jaipur,Individual,2022-10-05,BR012
+C00135,41,Jaipur,Small Business,2021-03-28,BR010
+C00136,61,Lucknow,Individual,2019-04-09,BR013
+C00137,37,Varanasi,Individual,2021-07-20,BR002
+C00138,29,Mumbai,Individual,2022-09-22,BR013
+C00139,37,Prayagraj,Individual,2020-08-11,BR005
+C00140,22,Prayagraj,Individual,2019-11-05,BR011
+C00141,26,Patna,Individual,2021-07-19,BR014
+C00142,25,Patna,Individual,2020-06-27,BR008
+C00143,59,Mumbai,Individual,2020-10-21,BR002
+C00144,57,Lucknow,Individual,2020-06-11,BR006
+C00145,55,Varanasi,Individual,2020-02-15,BR007
+C00146,44,Mumbai,Individual,2023-01-07,BR015
+C00147,56,Mumbai,Individual,2021-03-22,BR015
+C00148,29,Lucknow,Individual,2021-04-07,BR009
+C00149,66,Delhi,Individual,2022-07-28,BR015
+C00150,46,Varanasi,Individual,2020-07-12,BR007
+C00151,67,Patna,Individual,2018-09-16,BR007
+C00152,28,Prayagraj,Individual,2023-12-21,BR013
+C00153,45,Patna,Individual,2018-05-23,BR011
+C00154,55,Pune,Individual,2022-01-02,BR008
+C00155,45,Pune,Individual,2019-11-11,BR007
+C00156,43,Mumbai,Individual,2019-07-01,BR011
+C00157,29,Lucknow,Individual,2018-04-18,BR012
+C00158,40,Jaipur,Individual,2024-04-20,BR008
+C00159,32,Jaipur,Individual,2021-01-02,BR001
+C00160,36,Varanasi,Individual,2020-05-26,BR002
+C00161,55,Pune,Individual,2023-03-11,BR003
+C00162,52,Delhi,Individual,2018-04-10,BR007
+C00163,51,Lucknow,Individual,2021-12-14,BR010
+C00164,39,Bhopal,Individual,2021-06-18,BR013
+C00165,68,Jaipur,Individual,2021-11-16,BR004
+C00166,25,Patna,Individual,2018-11-13,BR012
+C00167,38,Bhopal,Individual,2024-09-01,BR010
+C00168,26,Prayagraj,Individual,2019-09-02,BR001
+C00169,37,Kanpur,Individual,2022-10-01,BR006
+C00170,69,Patna,Individual,2023-03-26,BR005
+C00171,39,Kanpur,Individual,2020-05-29,BR014
+C00172,66,Pune,Individual,2018-12-01,BR014
+C00173,45,Prayagraj,Small Business,2020-01-29,BR013
+C00174,55,Bhopal,Individual,2023-08-26,BR008
+C00175,43,Patna,Individual,2024-05-06,BR008
+C00176,34,Prayagraj,Individual,2024-07-23,BR005
+C00177,59,Jaipur,Individual,2019-08-02,BR012
+C00178,69,Bhopal,Individual,2022-03-31,BR002
+C00179,34,Delhi,Small Business,2019-01-22,BR005
+C00180,59,Prayagraj,Individual,2022-12-22,BR003
+C00181,34,Patna,Individual,2020-11-29,BR008
+C00182,56,Bhopal,Individual,2022-12-30,BR005
+C00183,60,Pune,Individual,2022-10-18,BR003
+C00184,43,Kanpur,Individual,2024-12-13,BR006
+C00185,57,Varanasi,Individual,2021-06-03,BR013
+C00186,34,Lucknow,Individual,2020-05-23,BR009
+C00187,24,Jaipur,Individual,2021-09-08,BR013
+C00188,25,Bhopal,Individual,2019-02-21,BR014
+C00189,43,Kanpur,Individual,2018-10-13,BR014
+C00190,66,Pune,Individual,2021-08-20,BR006
+C00191,27,Patna,Individual,2023-10-12,BR014
+C00192,43,Jaipur,Individual,2021-09-25,BR014
+C00193,56,Prayagraj,Individual,2023-06-23,BR015
+C00194,31,Patna,Individual,2019-03-31,BR006
+C00195,57,Pune,Individual,2021-02-23,BR004
+C00196,36,Prayagraj,Individual,2022-04-17,BR009
+C00197,61,Lucknow,Individual,2020-06-08,BR014
+C00198,49,Prayagraj,Individual,2018-02-06,BR014
+C00199,48,Lucknow,Individual,2018-07-07,BR009
+C00200,29,Delhi,Individual,2024-06-30,BR003
+C00201,44,Kanpur,Individual,2022-03-28,BR007
+C00202,63,Bhopal,Individual,2019-11-08,BR011
+C00203,21,Prayagraj,Individual,2019-10-24,BR009
+C00204,58,Bhopal,Individual,2018-04-12,BR006
+C00205,45,Patna,Individual,2024-08-12,BR006
+C00206,56,Mumbai,Individual,2018-10-04,BR001
+C00207,54,Varanasi,Individual,2023-04-26,BR005
+C00208,42,Lucknow,Small Business,2019-09-07,BR011
+C00209,36,Delhi,Individual,2020-05-08,BR004
+C00210,52,Varanasi,Individual,2019-12-02,BR015
+C00211,28,Jaipur,Small Business,2023-10-10,BR002
+C00212,50,Bhopal,Individual,2018-03-25,BR009
+C00213,25,Prayagraj,Individual,2020-06-19,BR008
+C00214,53,Pune,Small Business,2019-12-16,BR013
+C00215,52,Kanpur,Individual,2019-11-29,BR014
+C00216,25,Prayagraj,Individual,2019-05-09,BR009
+C00217,58,Kanpur,Individual,2024-05-22,BR010
+C00218,41,Pune,Individual,2020-08-26,BR011
+C00219,60,Mumbai,Individual,2020-12-05,BR008
+C00220,23,Prayagraj,Individual,2020-09-11,BR003
+C00221,29,Delhi,Individual,2024-11-11,BR007
+C00222,45,Pune,Individual,2020-05-16,BR004
+C00223,30,Varanasi,Individual,2020-05-23,BR007
+C00224,37,Bhopal,Individual,2020-04-18,BR010
+C00225,54,Patna,Individual,2020-04-16,BR004
+C00226,28,Varanasi,Individual,2018-08-18,BR004
+C00227,54,Delhi,Individual,2022-03-26,BR013
+C00228,26,Jaipur,Individual,2018-03-06,BR006
+C00229,29,Jaipur,Individual,2019-08-01,BR003
+C00230,50,Kanpur,Individual,2019-06-01,BR011
+C00231,60,Delhi,Individual,2020-01-16,BR011
+C00232,29,Prayagraj,Individual,2023-04-19,BR013
+C00233,35,Pune,Individual,2022-03-13,BR012
+C00234,67,Kanpur,Small Business,2024-12-08,BR015
+C00235,70,Delhi,Small Business,2020-06-17,BR009
+C00236,50,Varanasi,Individual,2024-07-02,BR005
+C00237,43,Varanasi,Individual,2018-04-25,BR013
+C00238,38,Mumbai,Individual,2021-07-13,BR004
+C00239,51,Prayagraj,Individual,2023-08-05,BR005
+C00240,50,Varanasi,Individual,2021-09-21,BR013
+C00241,35,Mumbai,Individual,2024-07-14,BR014
+C00242,22,Lucknow,Individual,2020-03-15,BR006
+C00243,28,Prayagraj,Individual,2018-03-27,BR011
+C00244,68,Patna,Individual,2023-06-02,BR014
+C00245,41,Bhopal,Small Business,2018-06-23,BR012
+C00246,45,Bhopal,Individual,2023-05-10,BR001
+C00247,44,Patna,Individual,2023-02-19,BR010
+C00248,60,Bhopal,Individual,2023-11-29,BR003
+C00249,24,Varanasi,Small Business,2021-05-09,BR013
+C00250,25,Kanpur,Individual,2024-04-08,BR002
+C00251,34,Bhopal,Individual,2019-03-11,BR015
+C00252,45,Bhopal,Individual,2021-01-15,BR003
+C00253,54,Mumbai,Small Business,2018-11-08,BR007
+C00254,45,Kanpur,Individual,2023-05-15,BR004
+C00255,43,Mumbai,Individual,2023-01-01,BR013
+C00256,67,Varanasi,Small Business,2023-08-24,BR006
+C00257,29,Prayagraj,Individual,2023-05-09,BR012
+C00258,49,Delhi,Individual,2020-02-28,BR002
+C00259,48,Lucknow,Individual,2018-06-24,BR007
+C00260,44,Patna,Individual,2024-07-04,BR014
+C00261,61,Delhi,Individual,2021-06-14,BR014
+C00262,34,Kanpur,Individual,2018-08-30,BR004
+C00263,68,Pune,Individual,2024-06-28,BR006
+C00264,37,Varanasi,Individual,2024-12-17,BR007
+C00265,48,Prayagraj,Individual,2021-02-13,BR009
+C00266,47,Jaipur,Individual,2023-05-24,BR009
+C00267,63,Delhi,Individual,2018-04-03,BR002
+C00268,42,Patna,Individual,2018-08-27,BR012
+C00269,35,Jaipur,Individual,2019-12-09,BR004
+C00270,22,Varanasi,Small Business,2022-08-05,BR005
+C00271,39,Bhopal,Small Business,2018-03-29,BR013
+C00272,62,Pune,Individual,2022-09-07,BR011
+C00273,21,Patna,Individual,2023-05-24,BR006
+C00274,65,Kanpur,Individual,2023-03-06,BR014
+C00275,48,Patna,Individual,2023-08-06,BR006
+C00276,28,Patna,Individual,2023-08-15,BR009
+C00277,36,Delhi,Individual,2022-03-21,BR004
+C00278,48,Delhi,Individual,2021-08-21,BR003
+C00279,36,Pune,Individual,2023-12-31,BR008
+C00280,26,Kanpur,Individual,2020-06-08,BR009
+C00281,54,Jaipur,Individual,2018-09-08,BR013
+C00282,54,Mumbai,Individual,2023-04-07,BR006
+C00283,26,Bhopal,Individual,2019-12-07,BR014
+C00284,35,Kanpur,Individual,2024-11-07,BR010
+C00285,33,Prayagraj,Individual,2020-11-25,BR002
+C00286,53,Delhi,Individual,2023-12-19,BR012
+C00287,57,Bhopal,Individual,2018-04-19,BR009
+C00288,57,Jaipur,Individual,2022-08-13,BR006
+C00289,67,Pune,Individual,2021-02-20,BR008
+C00290,59,Mumbai,Individual,2021-03-28,BR005
+C00291,37,Lucknow,Small Business,2019-11-10,BR010
+C00292,26,Delhi,Individual,2024-10-19,BR009
+C00293,51,Jaipur,Individual,2020-10-01,BR007
+C00294,66,Kanpur,Individual,2023-12-15,BR005
+C00295,69,Kanpur,Small Business,2020-12-22,BR006
+C00296,32,Lucknow,Individual,2018-05-04,BR008
+C00297,32,Patna,Small Business,2024-02-27,BR008
+C00298,22,Varanasi,Individual,2019-04-19,BR005
+C00299,28,Patna,Individual,2019-11-23,BR009
+C00300,48,Mumbai,Individual,2024-01-11,BR004
+C00301,48,Pune,Individual,2024-04-04,BR008
+C00302,39,Bhopal,Individual,2024-06-02,BR002
+C00303,36,Pune,Individual,2020-12-25,BR008
+C00304,62,Kanpur,Individual,2023-04-20,BR012
+C00305,44,Jaipur,Individual,2020-04-18,BR013
+C00306,61,Prayagraj,Individual,2023-03-09,BR011
+C00307,69,Patna,Individual,2021-07-08,BR012
+C00308,36,Delhi,Individual,2018-05-13,BR001
+C00309,31,Bhopal,Individual,2020-12-04,BR006
+C00310,68,Pune,Individual,2021-04-10,BR010
+C00311,52,Jaipur,Individual,2019-10-21,BR013
+C00312,35,Lucknow,Individual,2020-08-15,BR009
+C00313,52,Lucknow,Individual,2021-07-09,BR013
+C00314,46,Jaipur,Individual,2018-05-08,BR005
+C00315,66,Lucknow,Individual,2019-01-24,BR003
+C00316,33,Prayagraj,Individual,2023-05-15,BR002
+C00317,70,Kanpur,Individual,2020-06-18,BR009
+C00318,67,Bhopal,Individual,2022-04-05,BR010
+C00319,30,Bhopal,Small Business,2021-12-17,BR005
+C00320,29,Jaipur,Small Business,2021-11-10,BR012
+C00321,47,Varanasi,Individual,2020-11-23,BR012
+C00322,23,Mumbai,Individual,2021-05-20,BR006
+C00323,35,Pune,Individual,2023-10-08,BR004
+C00324,42,Prayagraj,Individual,2024-10-03,BR012
+C00325,69,Delhi,Individual,2019-10-19,BR011
+C00326,70,Pune,Individual,2024-10-15,BR003
+C00327,28,Mumbai,Individual,2018-01-20,BR004
+C00328,65,Lucknow,Individual,2023-06-30,BR008
+C00329,25,Lucknow,Individual,2021-06-24,BR008
+C00330,58,Mumbai,Small Business,2024-10-10,BR003
+C00331,63,Varanasi,Individual,2022-01-18,BR015
+C00332,65,Varanasi,Individual,2023-11-14,BR006
+C00333,32,Mumbai,Individual,2019-03-01,BR006
+C00334,65,Delhi,Individual,2018-12-30,BR001
+C00335,26,Jaipur,Individual,2024-06-27,BR014
+C00336,46,Varanasi,Individual,2021-09-08,BR004
+C00337,44,Mumbai,Individual,2021-11-28,BR015
+C00338,36,Pune,Individual,2019-03-11,BR008
+C00339,22,Prayagraj,Individual,2019-08-03,BR014
+C00340,59,Patna,Individual,2023-09-24,BR003
+C00341,37,Kanpur,Individual,2020-02-15,BR003
+C00342,54,Mumbai,Individual,2022-02-02,BR013
+C00343,41,Pune,Individual,2020-03-20,BR013
+C00344,39,Pune,Individual,2019-11-05,BR009
+C00345,65,Kanpur,Individual,2019-03-01,BR001
+C00346,25,Prayagraj,Individual,2024-07-04,BR015
+C00347,57,Prayagraj,Individual,2024-07-31,BR006
+C00348,58,Bhopal,Individual,2018-10-22,BR015
+C00349,39,Jaipur,Individual,2020-06-22,BR014
+C00350,34,Jaipur,Individual,2021-12-12,BR013
+C00351,21,Prayagraj,Individual,2020-09-07,BR011
+C00352,67,Delhi,Individual,2023-01-18,BR011
+C00353,68,Mumbai,Individual,2019-10-28,BR008
+C00354,33,Kanpur,Individual,2018-05-31,BR001
+C00355,22,Mumbai,Individual,2020-05-11,BR006
+C00356,27,Delhi,Individual,2022-03-09,BR011
+C00357,24,Jaipur,Small Business,2019-04-07,BR013
+C00358,62,Mumbai,Individual,2023-09-18,BR009
+C00359,65,Kanpur,Individual,2018-02-01,BR011
+C00360,28,Prayagraj,Small Business,2018-06-22,BR001
+C00361,58,Mumbai,Individual,2021-07-25,BR008
+C00362,29,Jaipur,Individual,2021-08-02,BR008
+C00363,39,Prayagraj,Individual,2020-01-25,BR014
+C00364,50,Bhopal,Individual,2019-10-24,BR005
+C00365,56,Delhi,Individual,2018-06-28,BR004
+C00366,64,Jaipur,Individual,2022-08-23,BR006
+C00367,23,Patna,Individual,2020-08-27,BR003
+C00368,30,Patna,Individual,2018-10-31,BR009
+C00369,35,Varanasi,Small Business,2020-10-19,BR010
+C00370,36,Delhi,Small Business,2024-07-24,BR013
+C00371,70,Kanpur,Individual,2019-10-30,BR015
+C00372,59,Delhi,Individual,2024-04-06,BR002
+C00373,37,Delhi,Individual,2019-04-21,BR004
+C00374,69,Mumbai,Small Business,2019-10-29,BR005
+C00375,45,Lucknow,Individual,2020-04-06,BR004
+C00376,46,Lucknow,Small Business,2018-11-05,BR013
+C00377,42,Mumbai,Individual,2022-02-11,BR003
+C00378,28,Kanpur,Individual,2020-05-02,BR001
+C00379,67,Varanasi,Individual,2023-01-11,BR013
+C00380,21,Delhi,Individual,2021-06-09,BR015
+C00381,29,Varanasi,Individual,2021-02-05,BR004
+C00382,32,Jaipur,Individual,2021-04-19,BR005
+C00383,34,Delhi,Small Business,2022-12-28,BR008
+C00384,27,Bhopal,Individual,2018-09-24,BR008
+C00385,21,Jaipur,Individual,2023-01-19,BR015
+C00386,54,Bhopal,Individual,2024-12-31,BR007
+C00387,69,Patna,Individual,2023-05-08,BR001
+C00388,27,Pune,Small Business,2021-03-10,BR007
+C00389,35,Kanpur,Individual,2020-03-15,BR009
+C00390,46,Pune,Individual,2024-02-10,BR008
+C00391,67,Prayagraj,Individual,2019-10-20,BR008
+C00392,55,Prayagraj,Small Business,2021-05-18,BR014
+C00393,59,Jaipur,Individual,2023-05-26,BR013
+C00394,50,Patna,Individual,2024-06-16,BR004
+C00395,41,Delhi,Individual,2024-06-12,BR006
+C00396,30,Kanpur,Individual,2018-08-13,BR011
+C00397,64,Patna,Small Business,2024-04-15,BR007
+C00398,61,Prayagraj,Individual,2018-10-19,BR007
+C00399,22,Delhi,Small Business,2022-02-03,BR003
+C00400,56,Bhopal,Individual,2024-07-05,BR004
+C00401,25,Pune,Individual,2022-08-02,BR012
+C00402,57,Lucknow,Individual,2024-08-19,BR013
+C00403,62,Lucknow,Individual,2020-05-30,BR012
+C00404,27,Jaipur,Small Business,2020-03-15,BR005
+C00405,42,Mumbai,Small Business,2020-04-14,BR003
+C00406,27,Lucknow,Individual,2020-06-27,BR003
+C00407,49,Pune,Individual,2022-10-12,BR006
+C00408,67,Patna,Individual,2021-03-02,BR008
+C00409,25,Mumbai,Individual,2023-03-01,BR014
+C00410,40,Prayagraj,Individual,2020-11-30,BR014
+C00411,69,Bhopal,Individual,2020-02-26,BR001
+C00412,36,Jaipur,Individual,2019-05-01,BR011
+C00413,27,Prayagraj,Individual,2021-11-10,BR005
+C00414,45,Pune,Individual,2024-04-16,BR003
+C00415,46,Lucknow,Individual,2024-01-06,BR009
+C00416,54,Varanasi,Small Business,2019-10-10,BR001
+C00417,36,Prayagraj,Individual,2021-05-06,BR006
+C00418,68,Prayagraj,Individual,2022-12-09,BR009
+C00419,47,Bhopal,Individual,2022-04-15,BR005
+C00420,35,Lucknow,Individual,2018-06-21,BR009
+C00421,69,Delhi,Small Business,2018-04-10,BR007
+C00422,67,Varanasi,Individual,2022-07-30,BR012
+C00423,45,Varanasi,Individual,2018-09-20,BR003
+C00424,22,Delhi,Small Business,2020-05-16,BR001
+C00425,50,Jaipur,Small Business,2022-02-13,BR008
+C00426,48,Varanasi,Individual,2022-08-04,BR004
+C00427,28,Prayagraj,Individual,2021-02-13,BR011
+C00428,52,Pune,Individual,2018-08-29,BR002
+C00429,63,Delhi,Individual,2023-08-06,BR009
+C00430,26,Jaipur,Individual,2024-08-25,BR015
+C00431,57,Bhopal,Individual,2024-03-22,BR002
+C00432,28,Mumbai,Small Business,2023-03-29,BR005
+C00433,58,Varanasi,Individual,2020-10-25,BR013
+C00434,41,Varanasi,Individual,2024-02-19,BR009
+C00435,21,Kanpur,Individual,2021-06-02,BR003
+C00436,69,Lucknow,Individual,2018-12-15,BR004
+C00437,29,Patna,Individual,2023-12-15,BR012
+C00438,50,Mumbai,Individual,2020-03-29,BR013
+C00439,30,Bhopal,Small Business,2024-07-28,BR006
+C00440,67,Varanasi,Individual,2020-07-30,BR008
+C00441,57,Kanpur,Individual,2024-02-02,BR012
+C00442,61,Patna,Individual,2021-10-05,BR003
+C00443,42,Pune,Individual,2021-04-10,BR004
+C00444,44,Delhi,Small Business,2020-01-30,BR012
+C00445,52,Prayagraj,Individual,2023-11-07,BR003
+C00446,60,Mumbai,Individual,2018-06-05,BR012
+C00447,63,Pune,Individual,2021-04-13,BR008
+C00448,21,Mumbai,Individual,2020-08-01,BR015
+C00449,54,Delhi,Individual,2021-10-21,BR001
+C00450,26,Pune,Individual,2019-10-13,BR015
+C00451,35,Lucknow,Individual,2022-08-27,BR004
+C00452,62,Varanasi,Individual,2020-09-13,BR001
+C00453,33,Delhi,Individual,2019-04-27,BR011
+C00454,60,Lucknow,Individual,2019-05-19,BR008
+C00455,44,Pune,Individual,2022-11-16,BR013
+C00456,32,Kanpur,Small Business,2019-11-01,BR002
+C00457,37,Lucknow,Individual,2020-02-25,BR002
+C00458,47,Varanasi,Individual,2022-05-23,BR009
+C00459,59,Lucknow,Individual,2020-04-23,BR014
+C00460,51,Jaipur,Individual,2020-09-19,BR007
+C00461,67,Delhi,Individual,2019-09-18,BR012
+C00462,64,Pune,Individual,2020-06-02,BR014
+C00463,58,Varanasi,Small Business,2022-11-07,BR014
+C00464,51,Mumbai,Individual,2021-09-27,BR008
+C00465,35,Pune,Individual,2024-12-25,BR011
+C00466,41,Pune,Individual,2023-05-28,BR008
+C00467,26,Jaipur,Individual,2018-02-13,BR011
+C00468,39,Bhopal,Individual,2020-08-26,BR009
+C00469,67,Pune,Individual,2020-01-12,BR008
+C00470,42,Kanpur,Individual,2022-02-11,BR007
+C00471,26,Jaipur,Individual,2019-11-11,BR010
+C00472,53,Delhi,Small Business,2024-10-06,BR012
+C00473,69,Delhi,Individual,2020-02-05,BR014
+C00474,64,Mumbai,Small Business,2021-08-27,BR010
+C00475,34,Jaipur,Individual,2018-11-11,BR002
+C00476,43,Delhi,Individual,2024-05-15,BR009
+C00477,47,Prayagraj,Individual,2024-05-20,BR005
+C00478,33,Pune,Individual,2023-07-23,BR001
+C00479,34,Kanpur,Individual,2020-06-18,BR002
+C00480,32,Patna,Individual,2018-05-31,BR009
+C00481,70,Mumbai,Individual,2022-12-23,BR015
+C00482,58,Delhi,Individual,2021-01-02,BR008
+C00483,63,Bhopal,Individual,2024-12-07,BR007
+C00484,61,Mumbai,Individual,2022-11-21,BR002
+C00485,68,Delhi,Individual,2021-10-09,BR011
+C00486,26,Prayagraj,Individual,2024-11-28,BR001
+C00487,65,Pune,Small Business,2023-08-09,BR013
+C00488,24,Varanasi,Individual,2021-03-18,BR013
+C00489,44,Pune,Individual,2018-02-18,BR015
+C00490,50,Pune,Individual,2018-08-26,BR005
+C00491,38,Kanpur,Individual,2021-02-08,BR003
+C00492,28,Bhopal,Individual,2021-12-08,BR005
+C00493,30,Lucknow,Individual,2018-03-19,BR012
+C00494,62,Lucknow,Individual,2018-11-20,BR004
+C00495,36,Patna,Individual,2022-12-06,BR014
+C00496,36,Varanasi,Individual,2023-04-06,BR003
+C00497,67,Mumbai,Individual,2018-03-18,BR001
+C00498,28,Lucknow,Individual,2021-07-22,BR004
+C00499,66,Varanasi,Individual,2018-07-27,BR012
+C00500,67,Prayagraj,Small Business,2023-01-24,BR010
+C00501,50,Varanasi,Individual,2023-11-03,BR006
+C00502,29,Varanasi,Individual,2024-02-01,BR010
+C00503,28,Prayagraj,Small Business,2022-03-10,BR010
+C00504,35,Lucknow,Individual,2022-05-28,BR009
+C00505,49,Kanpur,Individual,2024-06-27,BR008
+C00506,28,Varanasi,Individual,2022-04-16,BR002
+C00507,43,Lucknow,Individual,2021-02-15,BR004
+C00508,26,Lucknow,Small Business,2023-04-14,BR008
+C00509,48,Bhopal,Individual,2022-02-19,BR003
+C00510,22,Patna,Individual,2023-11-25,BR008
+C00511,56,Pune,Individual,2021-09-03,BR002
+C00512,23,Delhi,Individual,2024-02-01,BR012
+C00513,30,Varanasi,Individual,2018-04-25,BR002
+C00514,29,Jaipur,Individual,2018-04-04,BR002
+C00515,62,Delhi,Individual,2018-09-11,BR010
+C00516,23,Jaipur,Individual,2021-11-23,BR004
+C00517,42,Patna,Individual,2022-12-18,BR006
+C00518,50,Kanpur,Individual,2019-07-08,BR005
+C00519,46,Pune,Individual,2019-02-03,BR004
+C00520,55,Varanasi,Individual,2024-01-09,BR012
+C00521,61,Delhi,Individual,2023-04-04,BR011
+C00522,40,Kanpur,Individual,2022-07-16,BR004
+C00523,62,Jaipur,Individual,2021-06-02,BR011
+C00524,36,Patna,Individual,2020-12-10,BR011
+C00525,70,Pune,Individual,2018-02-22,BR009
+C00526,46,Lucknow,Individual,2019-04-26,BR009
+C00527,57,Kanpur,Individual,2024-04-12,BR015
+C00528,64,Bhopal,Individual,2020-05-16,BR007
+C00529,60,Prayagraj,Individual,2022-12-07,BR006
+C00530,63,Kanpur,Individual,2022-12-05,BR009
+C00531,47,Delhi,Individual,2020-03-02,BR013
+C00532,23,Delhi,Individual,2019-06-07,BR011
+C00533,45,Delhi,Individual,2022-11-04,BR002
+C00534,30,Prayagraj,Individual,2018-08-28,BR007
+C00535,65,Jaipur,Individual,2021-06-19,BR012
+C00536,32,Pune,Individual,2024-03-20,BR004
+C00537,32,Prayagraj,Individual,2022-12-24,BR015
+C00538,33,Patna,Individual,2023-05-09,BR013
+C00539,53,Prayagraj,Individual,2018-08-01,BR013
+C00540,49,Prayagraj,Individual,2019-05-26,BR002
+C00541,68,Varanasi,Individual,2019-12-05,BR009
+C00542,41,Mumbai,Small Business,2020-01-18,BR008
+C00543,35,Bhopal,Individual,2019-05-12,BR010
+C00544,23,Kanpur,Individual,2024-10-21,BR013
+C00545,21,Lucknow,Individual,2019-02-26,BR006
+C00546,39,Mumbai,Small Business,2022-12-16,BR009
+C00547,67,Jaipur,Individual,2022-02-09,BR011
+C00548,47,Bhopal,Small Business,2022-04-11,BR012
+C00549,65,Lucknow,Small Business,2019-07-03,BR012
+C00550,26,Patna,Individual,2020-02-26,BR006
+C00551,25,Delhi,Individual,2022-03-31,BR015
+C00552,62,Delhi,Individual,2020-02-04,BR001
+C00553,26,Jaipur,Individual,2022-11-10,BR008
+C00554,23,Pune,Individual,2018-04-12,BR010
+C00555,41,Patna,Individual,2018-07-06,BR001
+C00556,67,Mumbai,Individual,2023-02-06,BR007
+C00557,55,Kanpur,Individual,2022-04-27,BR009
+C00558,25,Varanasi,Individual,2018-04-21,BR010
+C00559,62,Kanpur,Individual,2024-04-17,BR002
+C00560,63,Varanasi,Individual,2018-01-13,BR005
+C00561,61,Bhopal,Individual,2024-09-09,BR004
+C00562,66,Mumbai,Individual,2023-02-09,BR010
+C00563,32,Mumbai,Individual,2024-08-23,BR005
+C00564,69,Varanasi,Small Business,2020-03-11,BR009
+C00565,37,Bhopal,Individual,2023-04-19,BR011
+C00566,61,Lucknow,Small Business,2019-06-24,BR012
+C00567,49,Patna,Individual,2021-04-20,BR003
+C00568,59,Bhopal,Individual,2019-09-06,BR014
+C00569,52,Kanpur,Individual,2021-05-27,BR003
+C00570,53,Bhopal,Individual,2024-02-09,BR001
+C00571,51,Mumbai,Small Business,2021-01-20,BR001
+C00572,59,Bhopal,Individual,2018-08-25,BR004
+C00573,57,Kanpur,Individual,2020-04-10,BR014
+C00574,27,Mumbai,Individual,2023-07-05,BR004
+C00575,62,Lucknow,Individual,2021-08-27,BR011
+C00576,47,Kanpur,Individual,2021-12-03,BR007
+C00577,37,Lucknow,Individual,2021-01-07,BR001
+C00578,46,Jaipur,Small Business,2020-01-19,BR007
+C00579,69,Delhi,Individual,2022-03-10,BR001
+C00580,63,Lucknow,Individual,2022-06-07,BR008
+C00581,62,Bhopal,Individual,2024-04-15,BR009
+C00582,44,Lucknow,Individual,2024-12-19,BR008
+C00583,60,Patna,Individual,2023-10-15,BR005
+C00584,40,Patna,Individual,2018-07-21,BR012
+C00585,55,Varanasi,Individual,2020-09-29,BR009
+C00586,52,Lucknow,Small Business,2020-09-10,BR004
+C00587,33,Bhopal,Individual,2018-01-08,BR007
+C00588,34,Jaipur,Individual,2019-04-08,BR002
+C00589,24,Lucknow,Individual,2023-05-03,BR014
+C00590,27,Prayagraj,Individual,2020-06-19,BR012
+C00591,42,Delhi,Individual,2019-01-14,BR005
+C00592,44,Varanasi,Small Business,2020-01-06,BR011
+C00593,29,Prayagraj,Individual,2019-12-04,BR011
+C00594,41,Varanasi,Individual,2019-03-23,BR010
+C00595,51,Jaipur,Individual,2018-09-16,BR001
+C00596,32,Prayagraj,Individual,2023-05-08,BR014
+C00597,37,Jaipur,Individual,2023-10-10,BR015
+C00598,39,Jaipur,Individual,2021-06-23,BR015
+C00599,46,Mumbai,Individual,2022-04-23,BR015
+C00600,39,Lucknow,Individual,2024-06-08,BR014
+C00601,57,Jaipur,Individual,2023-11-25,BR012
+C00602,37,Kanpur,Individual,2018-03-25,BR001
+C00603,42,Varanasi,Individual,2024-09-02,BR007
+C00604,39,Kanpur,Small Business,2018-06-21,BR004
+C00605,30,Pune,Individual,2018-03-09,BR004
+C00606,55,Jaipur,Individual,2020-10-28,BR013
+C00607,32,Lucknow,Individual,2023-03-23,BR013
+C00608,35,Patna,Individual,2018-07-25,BR008
+C00609,60,Lucknow,Individual,2020-01-20,BR012
+C00610,68,Delhi,Individual,2019-11-03,BR002
+C00611,54,Bhopal,Individual,2020-10-13,BR004
+C00612,66,Varanasi,Individual,2024-11-26,BR013
+C00613,63,Pune,Individual,2020-04-27,BR007
+C00614,45,Jaipur,Individual,2019-06-19,BR009
+C00615,59,Lucknow,Individual,2018-11-09,BR007
+C00616,37,Delhi,Individual,2019-05-22,BR004
+C00617,44,Mumbai,Individual,2018-12-07,BR013
+C00618,47,Patna,Individual,2020-12-11,BR012
+C00619,69,Prayagraj,Individual,2021-06-27,BR011
+C00620,63,Kanpur,Small Business,2023-10-29,BR006
+C00621,45,Lucknow,Individual,2022-01-24,BR010
+C00622,53,Varanasi,Individual,2019-02-01,BR015
+C00623,31,Varanasi,Small Business,2020-08-21,BR010
+C00624,61,Jaipur,Individual,2020-03-10,BR008
+C00625,48,Lucknow,Individual,2023-10-16,BR005
+C00626,47,Delhi,Individual,2020-02-25,BR008
+C00627,59,Kanpur,Individual,2018-12-21,BR006
+C00628,52,Kanpur,Individual,2023-02-25,BR010
+C00629,24,Kanpur,Individual,2020-12-31,BR001
+C00630,35,Delhi,Individual,2018-09-03,BR003
+C00631,29,Patna,Individual,2022-10-30,BR012
+C00632,57,Patna,Individual,2019-06-23,BR006
+C00633,22,Lucknow,Individual,2024-01-30,BR007
+C00634,31,Jaipur,Small Business,2023-10-30,BR009
+C00635,50,Jaipur,Individual,2020-08-02,BR007
+C00636,55,Mumbai,Individual,2021-11-21,BR012
+C00637,46,Bhopal,Individual,2021-12-22,BR004
+C00638,64,Patna,Individual,2022-07-29,BR012
+C00639,66,Jaipur,Individual,2018-06-26,BR004
+C00640,27,Bhopal,Small Business,2020-04-10,BR006
+C00641,68,Bhopal,Individual,2019-03-12,BR009
+C00642,51,Jaipur,Individual,2022-11-19,BR014
+C00643,52,Delhi,Individual,2018-06-26,BR004
+C00644,25,Bhopal,Individual,2021-08-14,BR009
+C00645,52,Bhopal,Individual,2023-02-05,BR001
+C00646,57,Prayagraj,Individual,2024-08-22,BR002
+C00647,50,Lucknow,Individual,2020-01-07,BR012
+C00648,25,Pune,Individual,2018-01-21,BR011
+C00649,47,Prayagraj,Individual,2023-01-25,BR006
+C00650,67,Jaipur,Small Business,2018-01-04,BR010
+C00651,57,Prayagraj,Individual,2018-06-19,BR006
+C00652,27,Varanasi,Individual,2024-12-07,BR005
+C00653,68,Varanasi,Individual,2024-01-15,BR007
+C00654,68,Bhopal,Individual,2022-12-15,BR005
+C00655,29,Mumbai,Individual,2023-11-07,BR013
+C00656,61,Jaipur,Individual,2018-07-12,BR007
+C00657,41,Pune,Individual,2018-08-16,BR005
+C00658,50,Pune,Individual,2020-02-09,BR009
+C00659,43,Prayagraj,Individual,2018-03-02,BR012
+C00660,60,Varanasi,Individual,2024-03-21,BR005
+C00661,70,Bhopal,Small Business,2018-05-24,BR015
+C00662,60,Kanpur,Individual,2021-10-23,BR007
+C00663,67,Patna,Individual,2023-12-23,BR010
+C00664,68,Mumbai,Individual,2023-02-23,BR015
+C00665,25,Lucknow,Individual,2019-08-24,BR007
+C00666,33,Patna,Individual,2021-04-17,BR003
+C00667,57,Pune,Individual,2021-11-02,BR012
+C00668,50,Lucknow,Individual,2023-05-18,BR001
+C00669,23,Mumbai,Individual,2020-12-25,BR007
+C00670,25,Prayagraj,Individual,2019-12-30,BR015
+C00671,47,Delhi,Individual,2023-07-28,BR007
+C00672,51,Lucknow,Individual,2024-03-16,BR011
+C00673,29,Patna,Individual,2021-06-04,BR008
+C00674,29,Lucknow,Individual,2018-03-13,BR004
+C00675,27,Prayagraj,Individual,2021-07-04,BR005
+C00676,49,Kanpur,Individual,2024-03-23,BR008
+C00677,21,Prayagraj,Small Business,2024-12-04,BR002
+C00678,49,Prayagraj,Individual,2020-10-22,BR007
+C00679,44,Delhi,Individual,2019-01-19,BR007
+C00680,44,Delhi,Individual,2022-01-03,BR013
+C00681,54,Mumbai,Individual,2023-10-26,BR002
+C00682,47,Pune,Individual,2024-08-13,BR013
+C00683,57,Kanpur,Individual,2018-05-13,BR007
+C00684,59,Bhopal,Small Business,2020-01-13,BR010
+C00685,67,Patna,Individual,2021-05-06,BR009
+C00686,60,Kanpur,Small Business,2018-09-09,BR005
+C00687,46,Patna,Small Business,2024-03-16,BR014
+C00688,45,Mumbai,Individual,2018-10-14,BR004
+C00689,32,Pune,Individual,2022-08-28,BR001
+C00690,50,Jaipur,Individual,2024-06-06,BR012
+C00691,27,Varanasi,Small Business,2022-10-19,BR010
+C00692,67,Bhopal,Individual,2023-05-06,BR014
+C00693,63,Patna,Individual,2019-11-05,BR007
+C00694,26,Bhopal,Individual,2023-10-17,BR001
+C00695,60,Jaipur,Individual,2020-12-06,BR001
+C00696,26,Bhopal,Individual,2018-06-06,BR007
+C00697,57,Prayagraj,Individual,2020-07-26,BR004
+C00698,25,Jaipur,Small Business,2020-06-13,BR014
+C00699,45,Pune,Small Business,2021-08-26,BR002
+C00700,53,Lucknow,Individual,2019-11-09,BR014
+C00701,57,Bhopal,Individual,2020-12-30,BR004
+C00702,41,Prayagraj,Individual,2020-04-15,BR002
+C00703,67,Patna,Individual,2022-11-16,BR005
+C00704,59,Kanpur,Individual,2020-02-21,BR003
+C00705,31,Kanpur,Individual,2023-05-13,BR007
+C00706,54,Bhopal,Individual,2019-10-04,BR005
+C00707,57,Jaipur,Individual,2024-01-21,BR008
+C00708,37,Varanasi,Individual,2020-07-22,BR009
+C00709,57,Varanasi,Individual,2018-04-15,BR001
+C00710,65,Delhi,Individual,2023-08-24,BR002
+C00711,61,Pune,Individual,2024-02-08,BR003
+C00712,59,Bhopal,Individual,2019-06-27,BR003
+C00713,52,Pune,Individual,2022-03-20,BR002
+C00714,34,Varanasi,Individual,2022-01-08,BR005
+C00715,60,Delhi,Individual,2018-12-09,BR009
+C00716,39,Prayagraj,Small Business,2021-03-01,BR005
+C00717,47,Prayagraj,Individual,2022-11-10,BR005
+C00718,36,Mumbai,Individual,2024-10-08,BR008
+C00719,36,Kanpur,Individual,2023-12-08,BR009
+C00720,28,Bhopal,Individual,2018-09-08,BR005
+C00721,69,Prayagraj,Individual,2019-08-31,BR004
+C00722,28,Kanpur,Small Business,2021-01-21,BR007
+C00723,25,Patna,Individual,2019-01-21,BR001
+C00724,67,Mumbai,Individual,2021-12-30,BR008
+C00725,48,Patna,Individual,2018-01-23,BR015
+C00726,42,Mumbai,Individual,2018-10-18,BR006
+C00727,57,Mumbai,Individual,2018-05-01,BR002
+C00728,40,Patna,Individual,2020-01-26,BR011
+C00729,27,Jaipur,Small Business,2023-05-04,BR002
+C00730,57,Jaipur,Individual,2019-03-30,BR003
+C00731,29,Mumbai,Individual,2024-11-29,BR003
+C00732,48,Pune,Individual,2019-11-21,BR014
+C00733,68,Varanasi,Individual,2018-04-25,BR015
+C00734,67,Patna,Individual,2020-05-07,BR009
+C00735,39,Jaipur,Individual,2018-09-30,BR010
+C00736,60,Prayagraj,Individual,2018-07-03,BR010
+C00737,51,Jaipur,Individual,2023-12-12,BR010
+C00738,44,Pune,Small Business,2022-02-23,BR009
+C00739,27,Varanasi,Individual,2020-05-27,BR015
+C00740,39,Lucknow,Individual,2023-04-18,BR011
+C00741,53,Mumbai,Individual,2023-11-29,BR002
+C00742,70,Mumbai,Individual,2020-07-07,BR006
+C00743,21,Mumbai,Small Business,2021-12-05,BR015
+C00744,56,Mumbai,Small Business,2018-01-28,BR007
+C00745,63,Bhopal,Small Business,2020-02-22,BR004
+C00746,68,Lucknow,Individual,2022-03-02,BR014
+C00747,42,Mumbai,Individual,2019-05-19,BR010
+C00748,26,Lucknow,Individual,2024-12-09,BR009
+C00749,34,Mumbai,Individual,2024-10-19,BR007
+C00750,63,Patna,Individual,2019-10-21,BR002
+C00751,64,Varanasi,Individual,2020-10-10,BR006
+C00752,52,Mumbai,Small Business,2019-04-30,BR007
+C00753,27,Varanasi,Individual,2021-07-12,BR014
+C00754,27,Prayagraj,Individual,2018-11-13,BR005
+C00755,44,Bhopal,Individual,2020-09-26,BR003
+C00756,50,Delhi,Individual,2021-11-20,BR007
+C00757,22,Lucknow,Individual,2022-04-14,BR015
+C00758,55,Varanasi,Individual,2022-03-06,BR008
+C00759,48,Pune,Small Business,2019-07-21,BR006
+C00760,21,Bhopal,Individual,2023-07-19,BR011
+C00761,25,Jaipur,Individual,2022-11-04,BR010
+C00762,43,Kanpur,Individual,2023-04-10,BR005
+C00763,57,Mumbai,Individual,2021-04-11,BR015
+C00764,62,Delhi,Individual,2024-04-01,BR009
+C00765,42,Pune,Individual,2020-09-23,BR001
+C00766,35,Delhi,Individual,2023-08-23,BR007
+C00767,69,Prayagraj,Individual,2019-06-05,BR014
+C00768,43,Lucknow,Individual,2019-09-25,BR006
+C00769,36,Pune,Individual,2021-09-08,BR009
+C00770,43,Jaipur,Individual,2021-11-22,BR010
+C00771,21,Varanasi,Individual,2023-03-24,BR011
+C00772,36,Pune,Individual,2020-01-31,BR014
+C00773,46,Pune,Individual,2024-02-10,BR003
+C00774,66,Delhi,Individual,2020-04-23,BR008
+C00775,57,Lucknow,Individual,2021-09-27,BR009
+C00776,60,Varanasi,Individual,2024-07-10,BR003
+C00777,48,Varanasi,Individual,2021-10-11,BR011
+C00778,26,Pune,Individual,2022-10-10,BR002
+C00779,40,Varanasi,Individual,2024-05-12,BR007
+C00780,70,Prayagraj,Small Business,2024-10-28,BR005
+C00781,23,Delhi,Individual,2021-06-30,BR003
+C00782,64,Patna,Individual,2020-12-02,BR013
+C00783,55,Patna,Individual,2019-05-19,BR004
+C00784,35,Pune,Individual,2021-10-06,BR004
+C00785,59,Kanpur,Individual,2024-06-06,BR013
+C00786,62,Lucknow,Individual,2021-05-30,BR014
+C00787,23,Delhi,Individual,2020-06-10,BR001
+C00788,26,Delhi,Individual,2018-10-02,BR005
+C00789,54,Lucknow,Individual,2020-09-23,BR011
+C00790,70,Delhi,Individual,2019-08-29,BR012
+C00791,22,Mumbai,Individual,2024-11-02,BR015
+C00792,54,Bhopal,Individual,2021-09-11,BR009
+C00793,27,Mumbai,Individual,2018-06-22,BR001
+C00794,53,Kanpur,Individual,2023-12-16,BR014
+C00795,52,Bhopal,Individual,2024-07-09,BR003
+C00796,25,Prayagraj,Individual,2023-05-05,BR002
+C00797,55,Lucknow,Individual,2018-11-13,BR011
+C00798,65,Prayagraj,Individual,2018-09-09,BR010
+C00799,64,Patna,Individual,2019-05-22,BR001
+C00800,22,Prayagraj,Individual,2023-04-05,BR003
+C00801,33,Mumbai,Individual,2023-05-11,BR009
+C00802,33,Prayagraj,Individual,2023-11-13,BR004
+C00803,43,Jaipur,Individual,2018-09-05,BR011
+C00804,28,Varanasi,Individual,2019-01-27,BR007
+C00805,63,Pune,Individual,2024-04-21,BR009
+C00806,59,Lucknow,Small Business,2024-07-02,BR008
+C00807,61,Prayagraj,Individual,2023-01-30,BR006
+C00808,30,Mumbai,Individual,2018-09-29,BR006
+C00809,21,Delhi,Individual,2018-06-25,BR011
+C00810,66,Jaipur,Individual,2018-05-23,BR008
+C00811,35,Pune,Individual,2022-11-05,BR009
+C00812,53,Varanasi,Individual,2023-12-04,BR009
+C00813,66,Kanpur,Individual,2022-06-04,BR004
+C00814,22,Kanpur,Small Business,2019-11-02,BR014
+C00815,21,Bhopal,Individual,2023-04-21,BR009
+C00816,21,Patna,Individual,2018-06-01,BR011
+C00817,28,Pune,Small Business,2023-10-19,BR014
+C00818,23,Jaipur,Individual,2024-03-30,BR014
+C00819,61,Jaipur,Individual,2023-01-11,BR011
+C00820,51,Lucknow,Individual,2024-02-27,BR012
+C00821,70,Varanasi,Individual,2022-02-07,BR008
+C00822,61,Delhi,Individual,2021-04-12,BR012
+C00823,69,Pune,Individual,2020-04-04,BR005
+C00824,32,Lucknow,Individual,2024-06-14,BR011
+C00825,35,Lucknow,Individual,2022-11-18,BR002
+C00826,63,Kanpur,Individual,2019-05-03,BR014
+C00827,33,Mumbai,Individual,2024-09-12,BR004
+C00828,23,Jaipur,Individual,2018-06-01,BR010
+C00829,54,Jaipur,Small Business,2022-02-11,BR001
+C00830,61,Bhopal,Individual,2019-05-03,BR003
+C00831,69,Bhopal,Individual,2022-08-26,BR015
+C00832,67,Delhi,Individual,2020-11-21,BR013
+C00833,27,Kanpur,Individual,2021-01-22,BR004
+C00834,59,Mumbai,Individual,2022-09-14,BR002
+C00835,63,Kanpur,Individual,2023-04-18,BR013
+C00836,55,Pune,Individual,2020-08-29,BR015
+C00837,61,Lucknow,Small Business,2024-12-26,BR003
+C00838,62,Bhopal,Individual,2021-06-28,BR010
+C00839,43,Varanasi,Individual,2019-02-15,BR005
+C00840,23,Bhopal,Individual,2018-01-17,BR012
+C00841,43,Varanasi,Small Business,2019-06-02,BR007
+C00842,31,Delhi,Individual,2022-11-03,BR002
+C00843,26,Patna,Individual,2021-10-11,BR005
+C00844,27,Prayagraj,Individual,2020-05-13,BR009
+C00845,55,Pune,Individual,2021-05-15,BR012
+C00846,46,Lucknow,Individual,2023-11-14,BR001
+C00847,47,Delhi,Small Business,2022-01-01,BR015
+C00848,58,Kanpur,Small Business,2018-05-29,BR010
+C00849,48,Bhopal,Individual,2018-05-06,BR014
+C00850,52,Lucknow,Individual,2021-05-17,BR014
+C00851,25,Mumbai,Individual,2020-10-30,BR003
+C00852,63,Delhi,Small Business,2023-12-15,BR002
+C00853,43,Lucknow,Individual,2022-01-30,BR012
+C00854,28,Kanpur,Individual,2023-04-20,BR003
+C00855,61,Patna,Individual,2022-02-05,BR003
+C00856,57,Lucknow,Individual,2020-06-01,BR008
+C00857,23,Patna,Individual,2022-05-08,BR014
+C00858,30,Pune,Small Business,2023-01-16,BR012
+C00859,21,Varanasi,Small Business,2019-04-29,BR008
+C00860,34,Pune,Small Business,2022-06-29,BR003
+C00861,25,Lucknow,Individual,2019-12-31,BR006
+C00862,56,Delhi,Individual,2023-07-14,BR011
+C00863,47,Kanpur,Individual,2023-08-04,BR003
+C00864,70,Bhopal,Individual,2022-05-17,BR008
+C00865,58,Lucknow,Individual,2024-08-17,BR001
+C00866,51,Kanpur,Individual,2021-10-06,BR005
+C00867,46,Jaipur,Individual,2018-03-06,BR004
+C00868,23,Kanpur,Individual,2022-03-31,BR011
+C00869,24,Bhopal,Individual,2023-06-12,BR014
+C00870,51,Mumbai,Individual,2018-09-16,BR003
+C00871,21,Jaipur,Individual,2018-09-25,BR012
+C00872,23,Jaipur,Individual,2019-11-30,BR010
+C00873,31,Bhopal,Individual,2024-11-01,BR015
+C00874,65,Delhi,Individual,2024-02-11,BR014
+C00875,43,Mumbai,Individual,2021-11-19,BR002
+C00876,56,Delhi,Individual,2022-10-03,BR012
+C00877,41,Delhi,Individual,2020-04-26,BR009
+C00878,29,Lucknow,Individual,2018-08-20,BR002
+C00879,39,Varanasi,Individual,2020-10-16,BR004
+C00880,25,Prayagraj,Individual,2022-02-23,BR014
+C00881,59,Varanasi,Individual,2019-04-11,BR009
+C00882,30,Kanpur,Individual,2019-07-21,BR006
+C00883,39,Varanasi,Individual,2018-02-08,BR005
+C00884,70,Bhopal,Individual,2023-02-20,BR013
+C00885,50,Mumbai,Individual,2024-04-18,BR005
+C00886,43,Jaipur,Individual,2023-10-17,BR003
+C00887,48,Delhi,Individual,2020-08-29,BR009
+C00888,60,Pune,Individual,2022-02-26,BR015
+C00889,33,Pune,Individual,2024-09-22,BR003
+C00890,52,Jaipur,Individual,2022-02-21,BR004
+C00891,64,Mumbai,Individual,2020-01-27,BR008
+C00892,49,Jaipur,Individual,2020-05-15,BR003
+C00893,43,Kanpur,Individual,2023-02-03,BR010
+C00894,28,Pune,Individual,2021-02-15,BR004
+C00895,33,Mumbai,Small Business,2023-11-11,BR002
+C00896,68,Lucknow,Individual,2024-01-19,BR004
+C00897,48,Mumbai,Individual,2018-04-02,BR014
+C00898,36,Lucknow,Small Business,2023-01-24,BR015
+C00899,41,Lucknow,Individual,2020-08-03,BR008
+C00900,49,Prayagraj,Individual,2021-08-22,BR007
+C00901,47,Varanasi,Individual,2019-11-09,BR013
+C00902,55,Pune,Individual,2020-07-30,BR003
+C00903,33,Kanpur,Individual,2020-04-24,BR010
+C00904,53,Prayagraj,Individual,2018-05-09,BR011
+C00905,43,Lucknow,Small Business,2023-06-25,BR011
+C00906,68,Lucknow,Individual,2019-01-01,BR004
+C00907,28,Mumbai,Individual,2020-08-18,BR011
+C00908,28,Jaipur,Individual,2019-05-09,BR010
+C00909,44,Prayagraj,Individual,2019-02-15,BR014
+C00910,46,Delhi,Individual,2020-08-12,BR003
+C00911,55,Lucknow,Individual,2024-06-07,BR010
+C00912,41,Delhi,Individual,2024-08-11,BR013
+C00913,66,Kanpur,Individual,2020-09-03,BR005
+C00914,44,Varanasi,Individual,2021-07-15,BR012
+C00915,27,Mumbai,Individual,2024-11-25,BR002
+C00916,26,Lucknow,Individual,2019-08-24,BR011
+C00917,69,Lucknow,Individual,2024-08-12,BR010
+C00918,27,Prayagraj,Individual,2018-09-28,BR003
+C00919,68,Varanasi,Individual,2019-08-01,BR001
+C00920,34,Mumbai,Individual,2020-05-15,BR012
+C00921,25,Prayagraj,Individual,2018-04-05,BR004
+C00922,36,Patna,Individual,2023-09-17,BR008
+C00923,51,Varanasi,Individual,2023-12-28,BR001
+C00924,42,Pune,Individual,2020-09-07,BR015
+C00925,60,Prayagraj,Individual,2023-11-09,BR009
+C00926,51,Pune,Individual,2023-05-30,BR014
+C00927,41,Jaipur,Individual,2023-08-12,BR003
+C00928,52,Jaipur,Individual,2023-08-15,BR004
+C00929,69,Patna,Individual,2022-01-06,BR010
+C00930,41,Lucknow,Individual,2018-10-11,BR010
+C00931,28,Kanpur,Small Business,2024-06-19,BR012
+C00932,41,Prayagraj,Individual,2022-04-06,BR014
+C00933,63,Lucknow,Small Business,2024-04-23,BR013
+C00934,31,Kanpur,Individual,2024-09-18,BR003
+C00935,68,Kanpur,Small Business,2019-04-24,BR005
+C00936,50,Bhopal,Small Business,2020-10-25,BR014
+C00937,51,Mumbai,Individual,2019-05-08,BR009
+C00938,36,Pune,Individual,2018-05-11,BR014
+C00939,67,Kanpur,Small Business,2024-10-07,BR009
+C00940,22,Lucknow,Small Business,2024-06-18,BR001
+C00941,35,Kanpur,Small Business,2024-07-10,BR008
+C00942,41,Prayagraj,Individual,2024-03-09,BR013
+C00943,44,Patna,Individual,2022-07-17,BR010
+C00944,44,Mumbai,Individual,2021-08-28,BR002
+C00945,28,Jaipur,Individual,2024-12-10,BR004
+C00946,32,Varanasi,Individual,2021-11-13,BR013
+C00947,25,Prayagraj,Individual,2022-07-01,BR015
+C00948,49,Mumbai,Individual,2019-06-26,BR012
+C00949,38,Varanasi,Individual,2023-03-25,BR002
+C00950,49,Bhopal,Individual,2023-09-27,BR010
+C00951,50,Patna,Individual,2022-10-01,BR013
+C00952,56,Patna,Individual,2021-06-28,BR010
+C00953,48,Varanasi,Individual,2019-05-21,BR009
+C00954,53,Bhopal,Individual,2018-03-28,BR008
+C00955,50,Patna,Individual,2022-05-24,BR004
+C00956,53,Bhopal,Individual,2022-10-13,BR005
+C00957,51,Kanpur,Small Business,2023-05-30,BR012
+C00958,36,Delhi,Individual,2024-08-27,BR002
+C00959,33,Delhi,Individual,2021-06-25,BR002
+C00960,60,Prayagraj,Individual,2023-10-22,BR006
+C00961,38,Jaipur,Individual,2023-01-06,BR012
+C00962,48,Pune,Individual,2019-12-10,BR010
+C00963,30,Delhi,Small Business,2023-12-01,BR009
+C00964,42,Patna,Individual,2018-05-17,BR009
+C00965,47,Bhopal,Individual,2022-03-12,BR002
+C00966,52,Varanasi,Individual,2024-08-01,BR005
+C00967,47,Jaipur,Individual,2022-08-12,BR002
+C00968,39,Prayagraj,Individual,2024-07-24,BR012
+C00969,69,Delhi,Individual,2018-05-24,BR012
+C00970,46,Delhi,Individual,2023-06-20,BR004
+C00971,61,Kanpur,Small Business,2022-07-01,BR005
+C00972,57,Varanasi,Individual,2024-03-01,BR005
+C00973,48,Mumbai,Individual,2021-03-28,BR014
+C00974,65,Pune,Small Business,2022-10-12,BR008
+C00975,27,Bhopal,Individual,2020-12-09,BR012
+C00976,67,Lucknow,Individual,2024-02-09,BR007
+C00977,63,Pune,Individual,2018-11-02,BR011
+C00978,46,Lucknow,Individual,2019-10-12,BR008
+C00979,57,Bhopal,Individual,2018-09-05,BR005
+C00980,47,Patna,Individual,2022-12-01,BR014
+C00981,34,Pune,Individual,2019-08-19,BR011
+C00982,60,Mumbai,Individual,2020-03-21,BR012
+C00983,33,Lucknow,Individual,2023-11-10,BR015
+C00984,36,Prayagraj,Individual,2020-07-09,BR004
+C00985,46,Patna,Individual,2019-01-08,BR002
+C00986,62,Mumbai,Individual,2018-02-23,BR009
+C00987,40,Pune,Individual,2019-08-03,BR005
+C00988,45,Bhopal,Small Business,2024-05-27,BR007
+C00989,23,Bhopal,Individual,2021-11-03,BR004
+C00990,26,Pune,Individual,2024-12-18,BR006
+C00991,23,Mumbai,Small Business,2019-07-05,BR006
+C00992,24,Patna,Individual,2020-06-17,BR006
+C00993,64,Patna,Individual,2019-02-22,BR012
+C00994,63,Jaipur,Individual,2020-10-15,BR009
+C00995,62,Varanasi,Individual,2023-08-29,BR008
+C00996,23,Pune,Individual,2020-07-30,BR002
+C00997,24,Patna,Individual,2023-05-27,BR009
+C00998,35,Prayagraj,Individual,2022-05-21,BR003
+C00999,49,Jaipur,Individual,2024-05-21,BR005
+C01000,37,Mumbai,Individual,2021-01-15,BR007

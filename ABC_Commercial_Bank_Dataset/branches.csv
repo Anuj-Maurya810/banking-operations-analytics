@@ -1,0 +1,16 @@
+branch_id,branch_name,city,region
+BR001,Varanasi Branch 1,Varanasi,Central
+BR002,Lucknow Branch 1,Lucknow,West
+BR003,Delhi Branch 1,Delhi,East
+BR004,Mumbai Branch 1,Mumbai,Central
+BR005,Pune Branch 1,Pune,North
+BR006,Jaipur Branch 1,Jaipur,East
+BR007,Patna Branch 1,Patna,Central
+BR008,Bhopal Branch 1,Bhopal,Central
+BR009,Kanpur Branch 1,Kanpur,North
+BR010,Prayagraj Branch 1,Prayagraj,West
+BR011,Varanasi Branch 2,Varanasi,North
+BR012,Lucknow Branch 2,Lucknow,East
+BR013,Delhi Branch 2,Delhi,Central
+BR014,Mumbai Branch 2,Mumbai,East
+BR015,Pune Branch 2,Pune,West
